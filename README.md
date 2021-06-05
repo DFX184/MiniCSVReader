@@ -19,4 +19,4 @@ The interface is as follows:
 
 **This file reading is not very fast, at least for large csv (for example, 2GB or more)**
 
-**IIf you have a new requirement, please let me add**
+**If you have a new requirement, please let me add**
